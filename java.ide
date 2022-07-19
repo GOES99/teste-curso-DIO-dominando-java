@@ -1,0 +1,23 @@
+primeiroPrograma.java
+package comClass;
+
+public class primeiroPrograma {
+
+	public static void main(String[] args) {
+		int a = 2;
+		int b = 3;
+		int c = 5;
+		int d = 4;
+		int e = 8;
+		int f = 4;
+	 System.out.print(" Hello World ! " + (a+b));
+	 
+	 System.out.print( " Hello Dad ! " + (c+d));
+	 
+	 System.out.print(" Hello Sister ! " + (e+f));
+	 
+		// TODO Auto-generated method stub
+
+	}
+
+}
